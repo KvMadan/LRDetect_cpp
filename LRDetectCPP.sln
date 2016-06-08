@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LRDetectCPP", "LRDetectCPP\LRDetectCPP.vcxproj", "{F660355B-EADE-44FF-819F-5C1D42B2DB91}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UnitTests", "UnitTests\UnitTests.vcxproj", "{F1171DAA-79B5-493D-B6E0-4B63F080B8E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F660355B-EADE-44FF-819F-5C1D42B2DB91}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F660355B-EADE-44FF-819F-5C1D42B2DB91}.Debug|Win32.Build.0 = Debug|Win32
+		{F660355B-EADE-44FF-819F-5C1D42B2DB91}.Release|Win32.ActiveCfg = Release|Win32
+		{F660355B-EADE-44FF-819F-5C1D42B2DB91}.Release|Win32.Build.0 = Release|Win32
+		{F1171DAA-79B5-493D-B6E0-4B63F080B8E2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F1171DAA-79B5-493D-B6E0-4B63F080B8E2}.Debug|Win32.Build.0 = Debug|Win32
+		{F1171DAA-79B5-493D-B6E0-4B63F080B8E2}.Release|Win32.ActiveCfg = Release|Win32
+		{F1171DAA-79B5-493D-B6E0-4B63F080B8E2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

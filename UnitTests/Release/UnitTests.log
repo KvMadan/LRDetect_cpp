@@ -1,0 +1,13 @@
+﻿Build started 17-Jun-15 10:28:46.
+     1>Project "C:\Users\genevh\Documents\Visual Studio 2012\Projects\LRDetectCPP\UnitTests\UnitTests.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\UnitTest\include" /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\UnitTests.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /FC /errorReport:prompt MsiProgramTest.cpp RegistryWrapperTest.cpp
+         MsiProgramTest.cpp
+     1>c:\users\genevh\documents\visual studio 2012\projects\lrdetectcpp\unittests\msiprogramtest.cpp(4): fatal error C1083: Cannot open include file: 'MsiProgram.h': No such file or directory
+         RegistryWrapperTest.cpp
+     1>c:\users\genevh\documents\visual studio 2012\projects\lrdetectcpp\unittests\registrywrappertest.cpp(4): fatal error C1083: Cannot open include file: 'RegistryWrapper.h': No such file or directory
+     1>Done Building Project "C:\Users\genevh\Documents\Visual Studio 2012\Projects\LRDetectCPP\UnitTests\UnitTests.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.56
