@@ -28,3 +28,7 @@
 
 #Logs
 *.tlog
+
+#dirs
+Debug/
+ipch/
