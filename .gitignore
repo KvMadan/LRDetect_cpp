@@ -23,6 +23,8 @@
 *.lib
 
 # Executables
-*.exe
 *.out
 *.app
+
+#Logs
+*.tlog
